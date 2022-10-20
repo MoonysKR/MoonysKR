@@ -116,6 +116,8 @@
 
 <br>
 
+![logo](README.assets/BeesyMovie.png)
+
 🕖 프로젝트 기간 : 2022.06 ~ 2022.06
 
 🎨 프로젝트 현황 : 베타버전 개발 완료
@@ -165,6 +167,8 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 <div markdown="1">
 <br>
 
+![logo](README.assets/logo.png)
+
 🕖 프로젝트 기간 : 2022.08 ~ 2022.09
 
 🎨 프로젝트 현황 : 베타버전 개발 완료
@@ -203,6 +207,16 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 운영
 
 - 이미지 사이즈 , 자바스크립 코드 최적화를 통해 Performance 개선
+
+기타
+
+- [Git Branch Convention](PLANTinum/Git%20Branch%20Convention.md)
+- [Git Commit Convention](PLANTinum/GIT%20Commit%20Convention.md)
+- [JIRA Convention](PLANTinum/JIRA%20Convention.md)
+- [Trouble shooting](PLANTinum/Trouble%20shooting.md)
+- [🎬소개영상](https://youtu.be/2TLctjGatYQ)
+- [🎞시연영상](https://youtu.be/C1uGjrZCowk)
+
 </div>
 </details>
 
@@ -217,41 +231,66 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 
 🎨 프로젝트 현황 : 베타버전 개발 완료
 
-🏆 수상 : SSAFY 특화 PJT 최우수상 (1등)
+🏆 수상 : SSAFY 특화 PJT 우수상 (2등)
 
 <br>
 
-플랜티넘은 자동화 화분 디바이스 개발 및 식물거래 플랫폼 서비스입니다.
+꽃마리는 빅데이터 기반 꽃 추천 서비스입니다.
 
-스마트 화분 ‘Supool’과 이를 관리할 수 있는 웹페이지를 제작했고,
+협업 필터링(Collaborative Filtering)과 하이브리드 필터링(Collaborative Filtering & Content Based Filtering)을 사용하여 꽃 이야기과 꽃을 추천해줍니다.
 
-식물 거래 플랫폼 ‘잎팔이＇서비스를 구현했습니다.
+작성한 편지를 OCR로 텍스트를 인식하고 TF-IDF를 기반으로 알맞은 꽃을 추천해줍니다.
 
 <br>
 
 담당 직무 : Front-end
 
-참가인원 : 5명
+참가인원 : 6명
 
-기여도 : HW(0%) | BE(0%) | FE(50%)
+기여도 : BE(0%) | FE(33%)
 
-개발 환경 : Vue.js 3 , Vuex, Bootstrap
+개발 환경 : Next.js , Tailwind CSS , daisy UI
 
 <br>
 
 구현 사항
 
-- 메인페이지
-  - 유저의 로그인 상태에 따라 보여주는 화면 전환
-- 식물 거래 플랫폼 잎팔이 서비스 구현 담당
-  - 식물 검색 및 지역 필터링 모듈화 작업
 - 프로필 페이지
-  - 주소 찾기 API를 활용해 유저 정보 수정 및 탭 이동으로 작성한 글 조회
+  - SPA 기반 게시글 및 컬렉션에 넣은 꽃을 조회
+  - 팔로워와 팔로잉하는 사람들 전체 조회 및 검색
+  - 회원정보 수정에서 사진등록 시 미리보기 제공, ID·생년월일·성별 등 유효성 검사 제공
 
 운영
 
-- 이미지 사이즈 , 자바스크립 코드 최적화를 통해 Performance 개선
+- Head 태그를 작성해 SEO 테스트 점수 100점 달성
+
+기타
+
+- [Notion](https://a303-princess.notion.site/a303-princess/97e776287f304c1f8492d1f622f448c7)
+- [🎬소개영상](https://youtu.be/F-DhYVAxK2E)
 </div>
 </details>
 
 <br>
+
+<details>
+<summary > <b>봄 : BOM</b> </summary>
+<div markdown="1">
+<br>
+
+🕖 프로젝트 기간 : 2022.10 ~
+
+🎨 프로젝트 현황 : 개발 진행 중
+
+💎 삼성 SDI 기업연계 프로젝트
+
+<br>
+
+BOM은 입원실 통합 관리 시스템입니다.
+
+<br>
+
+담당 직무 : Front-end
+
+</div>
+</details>
