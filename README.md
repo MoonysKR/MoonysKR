@@ -10,6 +10,10 @@
 
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonysKR&show_icons=true&theme=github_dark)
+
+<br>
+
 ---
 
 > 주요 기술 스택 (Tech Stacks)
