@@ -52,33 +52,39 @@
 
 > 학력 및 경력
 
-##### 학력
+<details>
+<summary > <b>학력 🎓</b> </summary>
+<div markdown="1">
+수성고등학교 졸업
 
-2013.02
+- 2013.02
 
-- 수성고등학교 졸업
+한국외국어대학교 졸업
 
-  2014.03 ~ 2021. 02
-
-- 한국외국어대학교 졸업
+- 2014.03 ~ 2021. 02
 - 주전공 : 노어과 / 부전공 : 경영학
+</div>
+</details>
 
 <br>
 
-##### 경력
+<details>
+<summary > <b>경력 📋</b> </summary>
+<div markdown="1">
+국회 이인영 의원실 (인턴)
 
-2020.10.15 ~ 2021.03.07
-
-- 국회 이인영 의원실
+- 2020.10.15 ~ 2021.03.07
 - 논문 (DMZ의 평화적 이용방안) - 우수작 수상
 - 책 원고 작성 (2020통일 걷기 : 38선에서 평화의 내일을 걷다)
 - 의원실 인스타 및 유튜브 관리
 
-  2021.07.01 ~ 2021.07.28
+오설록 사업기획팀(인턴)
 
-- 오설록 사업기획팀
+- 오설록 사업기획팀2021.07.01 ~ 2021.07.28
 - 3개년 매출 분석 및 신제품 판촉 전략 제안
 - 일일 매출 보고서 작성 (엑셀)
+</div>
+</details>
 
 <br>
 
@@ -87,7 +93,7 @@
 > 교육
 
 <details>
-<summary > <b>✔성균관대학교 디지털커머스 전문 인력 양성사업</b> </summary>
+<summary > <b>성균관대학교 디지털커머스 전문 인력 양성사업</b> </summary>
 <div markdown="1">
 
 <br>
@@ -114,7 +120,7 @@
 <br>
 
 <details>
-<summary > <b>✔삼성 청년 SW 아카데미</b> </summary>
+<summary > <b>삼성 청년 SW 아카데미</b> </summary>
 <div markdown="1">
 
 <br>
@@ -138,7 +144,7 @@
 > 프로젝트 경험
 
 <details>
-<summary > <b>Beesy Movie</b> </summary>
+<summary > <b>Beesy Movie 🎬</b> </summary>
 <div markdown="1">
 
 <br>
@@ -190,7 +196,7 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 <br>
 
 <details>
-<summary > <b>PLANTinum</b> </summary>
+<summary > <b>PLANTinum 🍀</b> </summary>
 <div markdown="1">
 <br>
 
@@ -218,7 +224,7 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 
 기여도 : BE(0%) | FE(50%)
 
-개발 환경 : Vue.js 3 , Vuex, Bootstrap
+개발 환경 : Vue.js 3, Vuex, Bootstrap
 
 <br>
 
@@ -228,12 +234,18 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
   - 유저의 로그인 상태에 따라 보여주는 화면 전환
 - 식물 거래 플랫폼 잎팔이 서비스 구현 담당
   - 식물 검색 및 지역 필터링 모듈화 작업
+    ![logo](README.assets/leaf82_search.gif)
 - 프로필 페이지
   - 주소 찾기 API를 활용해 유저 정보 수정 및 탭 이동으로 작성한 글 조회
+    ![logo](README.assets/profile.gif)
+
+<br>
 
 운영
 
 - 이미지 사이즈 , 자바스크립 코드 최적화를 통해 Performance 개선
+
+<br>
 
 기타
 
@@ -250,7 +262,7 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 <br>
 
 <details>
-<summary > <b>꽃마리</b> </summary>
+<summary > <b>꽃마리 🌸</b> </summary>
 <div markdown="1">
 <br>
 
@@ -286,14 +298,20 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
   - SPA 기반 게시글 및 컬렉션에 넣은 꽃을 조회
   - 팔로워와 팔로잉하는 사람들 전체 조회 및 검색
   - 회원정보 수정에서 사진등록 시 미리보기 제공, ID·생년월일·성별 등 유효성 검사 제공
+  - [화면정의서](https://a303-princess.notion.site/398602bed88147449753419eb72f7a14)
+
+<br>
 
 운영
 
 - Head 태그를 작성해 SEO 테스트 점수 100점 달성
 
+<br>
+
 기타
 
 - [Notion](https://a303-princess.notion.site/a303-princess/97e776287f304c1f8492d1f622f448c7)
+- [Trouble shooting](https://github.com/MoonysKR/TIL/blob/main/GGOTMARI_PJT/%EA%BD%83%EB%A7%88%EB%A6%AC%20PJT%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)
 - [🎬소개영상](https://youtu.be/F-DhYVAxK2E)
 </div>
 </details>
@@ -301,23 +319,73 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 <br>
 
 <details>
-<summary > <b>봄 : BOM</b> </summary>
+<summary > <b>봄 : BOM 💊</b> </summary>
 <div markdown="1">
 <br>
 
-🕖 프로젝트 기간 : 2022.10 ~
+🕖 프로젝트 기간 : 2022.10 ~ 2022.11
 
-🎨 프로젝트 현황 : 개발 진행 중
+🎨 프로젝트 현황 : 개발 완료
 
 💎 삼성 SDI 기업연계 프로젝트
 
+🏆 수상 : SSAFY 자율 PJT 우수상 (2등)
+
 <br>
 
-BOM은 입원실 통합 관리 시스템입니다.
+BOM은 메디컬 웨어러블 디바이스 및 웹 모니터링 서비스입니다.
+
+디바이스에서 BMS로 배터리 상태를 체크하고 산소포화도 및 온도 센서를 통해 환자의 생체 신호를 수집하빈다.
+
+병동에서는 수집된 데이터들을 시계열로 파악할 수 있고, 엑셀 다운로드를 통해 데이터 분석적 접근을 가능하게 만들었습니다.
+
+코로나 확산으로 인해 일부 병원에서는 지정 보호자 1인을 제외하고 환자 면회가 제한되고 있는데, 환자번호로 로그인하면 가족들도 환자의 상태를 체크할 수 있습니다.
 
 <br>
 
 담당 직무 : Front-end
+
+참가인원 : 5명
+
+기여도 : BE(0%) | FE(50%)
+
+개발 환경 : React.js , Tailwind CSS , daisy UI
+
+<br>
+
+구현 사항
+
+- 환자 상세 페이지
+  - SPA 기반 환자 정보 페이지
+  - 환자의 체온/심박수/산소포화도 확인 가능 및 확대하여 큰 화면으로 조회
+  - 버튼 클릭으로 디바이스 BMS 정보 조회
+  - 기간 필터링을 통해 특정 기간 데이터 조회 가능
+  - 엑셀 다운로드 버튼을 통해 설정한 기간을 기준으로 데이터 다운로드 가능
+    ![logo](README.assets/patient_detail_gif.gif)
+- 의사/간호사 페이지
+  - 의사와 간호사의 비상연락망 정보를 확인할 수 있는 페이지
+  - 페이지네이션을 통해 요청에 응답한 결과를 렌더링
+    ![logo](README.assets/doctors.jpg)
+    ![logo](README.assets/nurses.jpg)
+- 보호자용 모바일 페이지
+  - 환자번호를 통해 로그인할 수 있는 보호자용 로그인 페이지
+  - 모바일 사이즈를 설정한 뒤, 해당 크기를 벗어나면 다른 페이지로 이동
+    ![logo](README.assets/nok_mobile.gif)
+
+<br>
+
+운영
+
+- Lighthouse를 사용해 퍼포먼스 및 웹 페이지 점수 측정 결과 모든 페이지에서 95점 이상의 점수 획득
+  ![logo](README.assets/performance_test.png)
+
+<br>
+
+기타
+
+- [노션](https://scratch-mail-c09.notion.site/b485f39de68846d98557cbad84b9ac44)
+- [Trouble shooting](https://github.com/MoonysKR/TIL/blob/main/BOM_PJT/BOM%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)
+- [🎬소개영상]()
 
 </div>
 </details>
