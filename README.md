@@ -469,6 +469,8 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 
 특히, 마지막 프로젝트는 삼성SDI 기업연계 프로젝트로 최종 결선 발표회에 참여했습니다.
 
+[관련 인터뷰 링크](https://n.news.naver.com/mnews/article/021/0002538080?sid=101)
+
 </div>
 </details>
 
