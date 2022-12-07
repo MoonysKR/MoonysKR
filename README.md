@@ -21,6 +21,9 @@
 <details>
 <summary > <b>봄 : BOM 💊</b> </summary>
 <div markdown="1">
+
+![logo](README.assets/BOM_logo.jpg)
+
 <br>
 
 🕖 프로젝트 기간 : 2022.10 ~ 2022.11
@@ -29,13 +32,13 @@
 
 💎 삼성 SDI 기업연계 프로젝트
 
-🏆 수상 : SSAFY 자율 PJT 우수상 (2등)
+🏆 수상 : SSAFY 자율 PJT 최우수상 (1등)
 
 <br>
 
 BOM은 메디컬 웨어러블 디바이스 및 웹 모니터링 서비스입니다.
 
-디바이스에서 BMS로 배터리 상태를 체크하고 산소포화도 및 온도 센서를 통해 환자의 생체 신호를 수집하빈다.
+디바이스에서 BMS로 배터리 상태를 체크하고 산소포화도 및 온도 센서를 통해 환자의 생체 신호를 수집합니다.
 
 병동에서는 수집된 데이터들을 시계열로 파악할 수 있고, 엑셀 다운로드를 통해 데이터 분석적 접근을 가능하게 만들었습니다.
 
@@ -43,17 +46,19 @@ BOM은 메디컬 웨어러블 디바이스 및 웹 모니터링 서비스입니�
 
 <br>
 
-담당 직무 : Front-end
+담당 직무 : 프론트엔드
 
 참가인원 : 5명
 
-기여도 : BE(0%) | FE(50%)
+기여도 : FE (50%)
 
 개발 환경 : React.js , Tailwind CSS , daisy UI
 
 <br>
 
-구현 사항
+<b>구현 사항</b>
+
+![logo](README.assets/patient_detail_gif.gif)
 
 - 환자 상세 페이지
   - SPA 기반 환자 정보 페이지
@@ -61,31 +66,41 @@ BOM은 메디컬 웨어러블 디바이스 및 웹 모니터링 서비스입니�
   - 버튼 클릭으로 디바이스 BMS 정보 조회
   - 기간 필터링을 통해 특정 기간 데이터 조회 가능
   - 엑셀 다운로드 버튼을 통해 설정한 기간을 기준으로 데이터 다운로드 가능
-    ![logo](README.assets/patient_detail_gif.gif)
+
+<br>
+
+![logo](README.assets/doctors.jpg)
+![logo](README.assets/nurses.jpg)
+
 - 의사/간호사 페이지
   - 의사와 간호사의 비상연락망 정보를 확인할 수 있는 페이지
   - 페이지네이션을 통해 요청에 응답한 결과를 렌더링
-    ![logo](README.assets/doctors.jpg)
-    ![logo](README.assets/nurses.jpg)
+
+<br>
+
+![logo](README.assets/nok_mobile.gif)
+
 - 보호자용 모바일 페이지
   - 환자번호를 통해 로그인할 수 있는 보호자용 로그인 페이지
   - 모바일 사이즈를 설정한 뒤, 해당 크기를 벗어나면 다른 페이지로 이동
-    ![logo](README.assets/nok_mobile.gif)
 
 <br>
 
-운영
+<b>운영</b>
+
+![logo](README.assets/performance_test.png)
 
 - Lighthouse를 사용해 퍼포먼스 및 웹 페이지 점수 측정 결과 모든 페이지에서 95점 이상의 점수 획득
-  ![logo](README.assets/performance_test.png)
 
 <br>
 
+<b>
 기타
+</b>
 
 - [노션](https://scratch-mail-c09.notion.site/b485f39de68846d98557cbad84b9ac44)
 - [Trouble shooting](https://github.com/MoonysKR/TIL/blob/main/BOM_PJT/BOM%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)
-- [🎬소개영상]()
+- [🎬소개영상](https://www.youtube.com/watch?v=ElLTcXVT-Z8&list=PLsyLl8u_HVUxBRrlVK_r9Nf39bABNBKqb&index=4)
 
 </div>
 </details>
@@ -95,9 +110,12 @@ BOM은 메디컬 웨어러블 디바이스 및 웹 모니터링 서비스입니�
 <details>
 <summary > <b>꽃마리 🌸</b> </summary>
 <div markdown="1">
+
+![logo](README.assets/GGOTMARI_main.jpg)
+
 <br>
 
-🕖 프로젝트 기간 : 2022.09 ~ 2022.10
+🕖 프로젝트 기간 : 2022.08 ~ 2022.10
 
 🎨 프로젝트 현황 : 베타버전 개발 완료
 
@@ -113,17 +131,21 @@ BOM은 메디컬 웨어러블 디바이스 및 웹 모니터링 서비스입니�
 
 <br>
 
-담당 직무 : Front-end
+담당 직무 : 프론트엔드
 
 참가인원 : 6명
 
-기여도 : BE(0%) | FE(33%)
+기여도 : FE (33%)
 
 개발 환경 : Next.js , Tailwind CSS , daisy UI
 
 <br>
 
+<b>
 구현 사항
+</b>
+
+![logo](README.assets/GGOTMARI_profile.gif)
 
 - 프로필 페이지
   - SPA 기반 게시글 및 컬렉션에 넣은 꽃을 조회
@@ -133,13 +155,17 @@ BOM은 메디컬 웨어러블 디바이스 및 웹 모니터링 서비스입니�
 
 <br>
 
+<b>
 운영
+</b>
 
 - Head 태그를 작성해 SEO 테스트 점수 100점 달성
 
 <br>
 
+<b>
 기타
+</b>
 
 - [Notion](https://a303-princess.notion.site/a303-princess/97e776287f304c1f8492d1f622f448c7)
 - [Trouble shooting](https://github.com/MoonysKR/TIL/blob/main/GGOTMARI_PJT/%EA%BD%83%EB%A7%88%EB%A6%AC%20PJT%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)
@@ -152,11 +178,12 @@ BOM은 메디컬 웨어러블 디바이스 및 웹 모니터링 서비스입니�
 <details>
 <summary > <b>PLANTinum 🍀</b> </summary>
 <div markdown="1">
-<br>
 
 ![logo](README.assets/logo.png)
 
-🕖 프로젝트 기간 : 2022.08 ~ 2022.09
+<br>
+
+🕖 프로젝트 기간 : 2022.07 ~ 2022.08
 
 🎨 프로젝트 현황 : 베타버전 개발 완료
 
@@ -172,26 +199,38 @@ BOM은 메디컬 웨어러블 디바이스 및 웹 모니터링 서비스입니�
 
 <br>
 
-담당 직무 : Front-end
+담당 직무 : 프론트엔드
 
 참가인원 : 5명
 
-기여도 : BE(0%) | FE(50%)
+기여도 : FE (50%)
 
 개발 환경 : Vue.js 3, Vuex, Bootstrap
 
 <br>
 
+<b>
 구현 사항
+</b>
+
+![logo](README.assets/PLANTinum_main.png)
 
 - 메인페이지
   - 유저의 로그인 상태에 따라 보여주는 화면 전환
+
+<br>
+
+![logo](README.assets/leaf82_search.gif)
+
 - 식물 거래 플랫폼 잎팔이 서비스 구현 담당
   - 식물 검색 및 지역 필터링 모듈화 작업 <br>
-    ![logo](README.assets/leaf82_search.gif)
+
+<br>
+
+![logo](README.assets/profile.gif)
+
 - 프로필 페이지
   - 주소 찾기 API를 활용해 유저 정보 수정 및 탭 이동으로 작성한 글 조회
-    ![logo](README.assets/profile.gif)
 
 <br>
 
@@ -201,7 +240,9 @@ BOM은 메디컬 웨어러블 디바이스 및 웹 모니터링 서비스입니�
 
 <br>
 
+<b>
 기타
+</b>
 
 - [Git Branch Convention](PLANTinum/Git%20Branch%20Convention.md)
 - [Git Commit Convention](PLANTinum/GIT%20Commit%20Convention.md)
@@ -219,11 +260,11 @@ BOM은 메디컬 웨어러블 디바이스 및 웹 모니터링 서비스입니�
 <summary > <b>Beesy Movie 🎬</b> </summary>
 <div markdown="1">
 
-<br>
-
 ![logo](README.assets/BeesyMovie.png)
 
-🕖 프로젝트 기간 : 2022.06 ~ 2022.06
+<br>
+
+🕖 프로젝트 기간 : 2022.05
 
 🎨 프로젝트 현황 : 베타버전 개발 완료
 
@@ -239,7 +280,7 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 
 <br>
 
-담당 직무 : Full Stack
+담당 직무 : 풀스택
 
 참가인원 : 2명
 
@@ -249,19 +290,34 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 
 <br>
 
+<b>
 구현 사항
+</b>
+
+![logo](README.assets/BeesyMovie_movies.png)
 
 - Movie Lens 데이터 파일 가공
   - xls파일을 json파일로 변환 및 DB 저장
+
+<br>
+
+![logo](README.assets/BeesyMovie_movie.png)
+
 - Movie Shorts 서비스
   - YouTube API 활용하고, 버튼을 통해 보여주는 값을 변환
+
+<br>
+
 - Django model 및 serializer 작성
 
 <br>
 
+<b>
 운영
+</b>
 
 - Vue-meta를 활용하여 SEO 점수 개선
+
 </div>
 </details>
 
@@ -313,11 +369,11 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 
 수성고등학교 졸업
 
-- 2013.02
+- 기간 : 2013.02
 
 한국외국어대학교 졸업
 
-- 2014.03 ~ 2021. 02
+- 기간 : 2014.03 ~ 2021. 02
 - 주전공 : 노어과 / 부전공 : 경영학
 </div>
 </details>
@@ -330,15 +386,11 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 
 <br>
 
-국회 이인영 의원실
+<b>국회 이인영 의원실</b>
 
-**직책**
+**직책** 인턴
 
-인턴
-
-**기간**
-
-2020.10.15 ~ 2021.03.07
+**기간** 2020.10.15 ~ 2021.03.07
 
 **담당 업무**
 
@@ -346,19 +398,15 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 - 책 원고 작성 (2020통일 걷기 : 38선에서 평화의 내일을 걷다)
 - 의원실 인스타 및 유튜브 관리
 
-오설록
+<br>
 
-**부서**
+<b>오설록</b>
 
-사업기획팀
+**부서** 사업기획팀
 
-**직책**
+**직책** 인턴
 
-인턴
-
-**기간**
-
-2021.07.01 ~ 2021.07.28
+**기간** 2021.07.01 ~ 2021.07.28
 
 **담당 업무**
 
@@ -386,7 +434,7 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 
 2021.09 ~ 2021.12
 
-  <br>
+<br>
 
 **내용**
 
@@ -396,8 +444,8 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 
 [관련 블로그 링크](https://blog.naver.com/sj871225/222711726798)
 
-  </div>
-  </details>
+</div>
+</details>
 
 <br>
 
@@ -421,7 +469,7 @@ YouTube API를 통해 추천받은 영화의 예고편을 보여주고, 버튼 �
 
 특히, 마지막 프로젝트는 삼성SDI 기업연계 프로젝트로 최종 결선 발표회에 참여했습니다.
 
-  </div>
-  </details>
+</div>
+</details>
 
 <br>
